@@ -1,0 +1,17 @@
+.box {
+    display: inline-block;
+    border: 1px solid black;
+    width: 300px;
+    height: 300px;
+    background-image: url("https://i.namu.wiki/i/lkWDAARwA8HzdT1sPFfOpFg-3_-4GAf4vtmsDUBVxXC5UMCA1bfzqx6m-JrBDnOVnNXK-UzSYd2laWJz4GreUg.webp");
+    background-size: cover;
+  }
+
+.box1{
+    display: inline-block;
+    border: 1px solid red;
+    width: 300px;
+    height: 300px;
+    background-image: url("https://fgobbnslcbjgothosvni.supabase.co/storage/v1/object/public/images/featured_image/2024-01-10T00:51:41.917Z-6e06880c-acc9-498b-8245-4fa61239d7a8");
+    background-size: cover;
+}
